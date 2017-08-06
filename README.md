@@ -4,6 +4,7 @@
 - [Suikoden](https://www.konami.com/games/eu/en/products/suiko/)'s joke title logo
     - in Japanese **幻想水滸伝** as `Suikoden`
     - character is **Japanese Kanji (Chinese character)**
+    - icon image is `Hydrogen atom`
     - based on [Suikoden Series Portal Web Site (Japanese)](http://www.konami.jp/gs/game/genso/)
 - included one psd and two pngs
     - psd
